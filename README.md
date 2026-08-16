@@ -8,7 +8,7 @@ I'm currently building my foundation in Python, Java, software development, and 
 
 ### 🚀 Currently Building
 
-- **EventEase** — An event planning and vendor booking platform
+- **EventEase**
 - Exploring projects in **Artificial Intelligence, Machine Learning, and Software Development**
 
 ### 🧠 Areas I'm Learning
